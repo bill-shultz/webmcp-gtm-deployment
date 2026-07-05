@@ -4,9 +4,9 @@ This folder contains screenshots from live web results to support activities con
 
 I am organizing screenshots by website (example: /chrome-inspect/fixforu-site1 includes screenshots from Chrome DevTools - WebMCP Tool validator). 
 
-## What's in this folder
+# What's in this folder
 
-# apologize-wrong-address.png
+## apologize-wrong-address.png
 
 Screenshot confirming Jackson Enterprises' correct address.  We have had issues with the address being wrong - it is now corrected.  This is driven from the **webmcp-setup-context-tag**.
 

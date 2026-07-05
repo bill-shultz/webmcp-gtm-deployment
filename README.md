@@ -18,7 +18,7 @@ WebMCP is a new way for a website to expose tools and capabilities directly to A
 
 ## The method
 
-I tested deploying WebMCP tools using **Google Tag Manager Custom HTML tags**, and it worked.
+I tested deploying **WebMCP Tools** using **Google Tag Manager Custom HTML tags**, and it worked.
 
 Through this testing, the results I've seen and been able to control by deploying WebMCP Tools via GTM appear to minimize and reduce specific hallucinations, update local schema, allow WebMCP Tools to fire on specific pages of websites, and generally communicate more efficiently with AI Agents. Before and after search results, particularly in AI Mode of Google, confirmed the method works.
 

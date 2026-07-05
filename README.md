@@ -29,14 +29,14 @@ Furthermore, whether WebMCP Tool "tags" (I call them "tags") are deployed via GT
 ## Status
 
 - Deployed across multiple live sites for testing
-- Verified behavioral impact in Google AI Mode and Google Maps results (see `/screenshots`)
+- Verified behavioral impact in Google AI Mode and Chrome Inspect results (see `/screenshots` and '/chrome-inspect')
 - Actively refining the approach and documenting findings
 
 ## Why I'm documenting this
 
 I created this repository, along with a blog on my own name at billshultz.com, to timestamp this work. Based on my research, I haven't found anyone else publicly documenting WebMCP deployment via Google Tag Manager.
 
-This is an evolving process, as WebMCP has not been active very long. However, with more recent versions of Chrome, we can see WebMCP Tools firing on browser tabs, which is why I am publishing these methods. I will continue to update my blog with more information about these WebMCP Tool tag processes and methodologies.
+This is an evolving process, as WebMCP has not been active very long. However, with more recent versions of Chrome, we can see WebMCP Tools firing on browser tabs, which is why I am publishing these methods and adding screenshots. I will continue to update my blog at billshultz.com with more information about these WebMCP Tool tag experiments, processes, and methodologies.
 
 ## License
 

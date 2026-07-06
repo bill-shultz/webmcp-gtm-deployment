@@ -14,4 +14,9 @@ Screenshots from Chrome DevTools confirming that WebMCP Tools deployed via Googl
 - The following screenshots show a checkServiceArea WebMCP Tool, which validates that Jackson Enterprises services Christiansburg, Virginia - but does not service New York, New York.  
 - These are both displayed using Chrome Inspect's new WebMCP Tool Tester. I've added how to validate both Christiansburg as Yes and New York as No.
 
+## Site 2: fixclicks.net
+- **[/fixclicks-site2](./fixclicks-site2)** — WebMCP Tools deployed on fixclicks.net (Bill's corporate website)
+- These screenshots show before and after visibility when adding keywords to match to webpages, similar to Site 1.
+- I also tested the misspelling of my own name, which is correctly spelled without a 'c'.  This is specifically listed in the WebMCP Setup Context Tag.  
+
 ## More websites and WebMCP Tool 'tags' will be added here as testing continues.

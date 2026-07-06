@@ -4,7 +4,7 @@ Screenshots confirming WebMCP Tools deployed via Google Tag Manager Custom HTML 
 
 ## fixclicks-net-before-setup.jpg
 
-IN PREGRESS - please see images, need to move some to the 'screenshots' folder.
+IN PROGRESS - please see images, need to move some to the 'screenshots' folder.
 
 ## Additional notes
 

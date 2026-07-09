@@ -20,3 +20,5 @@ Screenshots from Chrome DevTools confirming that WebMCP Tools deployed via Googl
 - I also tested the misspelling of my own name, which is correctly spelled without a 'c'.  This is specifically listed in the WebMCP Setup Context Tag.  
 
 ## More websites and WebMCP Tool 'tags' will be added here as testing continues.
+
+## I may also add some generalized (but blurred) screenshots from my clients I have used this method, pending NDA request from the clients.
